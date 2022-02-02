@@ -1,0 +1,2 @@
+# I-ASSIST
+•The project “I-Assist” mainly focuses to provide a vision assistance to blind people by helping them detect the object in front of them so that they can walk without hitting any obstacle. Helps in identifying the objects in front of the person. Recognizing known faces (family members, friends and relatives). Help in crossing the roads by identifying the traffic lights colors. Sending SOS message to contacts in case of any emergency.
